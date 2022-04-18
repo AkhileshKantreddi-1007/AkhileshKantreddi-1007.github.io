@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: rgb(149, 150, 149);
+color: #61122F;
+}
+body{
+	color: black;
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+	font-size: larger;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.text-center{
+	font-size: 60px;
+}
+
+h2{
+	font-size: 2.5em;
+	text-align: center;
+}
+.navbar-collapse ul li a {
+font-size: 1.5em;
+background-color: black;
+}
+.navbar-inverse .navbar-brand{
+font-size: 30px;	
+color:black;
+}
